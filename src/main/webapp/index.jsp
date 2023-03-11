@@ -36,7 +36,7 @@ img {
   <p>This text is styled with some of the text formatting properties. The heading uses the text-align, text-transform, and color properties.
   The paragraph is indented, aligned, and the space between characters is specified. The underline is removed from this colored
   <a target="_blank" href="tryit.asp?filename=trycss_text">"Try it Yourself"</a> link.</p>
-  
+  <h1> BEST WAY TO LEARN DEVOPS BY PRACTISING </h1>
   <h1> JAI BALAYYA..............</h1>
   <h1> Learning DevOps</h1>
   
